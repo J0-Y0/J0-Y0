@@ -1,5 +1,12 @@
 <div align="center">
 
+<div align="center">
+  <img src="https://yosefemyayu.pythonanywhere.com/static/img/logo_2.png" alt="Yosef Emyayu Logo" width="150" style="border-radius: 1%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
+
+
+
+</div>
+
 # <span style="color: #6e5494;">✨ Welcome to My GitHub Universe ✨</span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+React+Specialist;Data+Science+Enthusiast;Tech+Innovator)](https://git.io/typing-svg)
@@ -20,18 +27,33 @@
 
 ---
 
-## <span style="color: #6e5494;">🌐 Digital Presence</span>
+## <span style="color: #6e5494;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25"> Connect With Me</span>
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://yosefemyayu.pythonanywhere.com/)
+<div align="center" style="gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+   <!-- <a href="https://yosefemyayu.pythonanywhere.com/" target="_blank"
+        style="display: flex; align-items:  center;margin:10px 0; text-decoration: none; background-color: #1d2a3fff; color: white; padding: 8px 12px; width:fit-content; border-radius: 25px; font-weight: 600;">
+        <img src="https://yosefemyayu.pythonanywhere.com/static/img/logo_2.png" alt="Yosef Emyayu Logo" width="20"
+            style="  margin-right: 8px;">
+            Portfolio
+    </a> -->
+    
+
+
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%21000.svg?style=for-the-badge&logo=react&logoColor=white)](https://yosefemyayu.pythonanywhere.com/)
+
+<div>
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yosef-emyayu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J0-Y0)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+</div>
 
 </div>
 
 ---
+
 
 ## <span style="color: #6e5494;">🛠️ Professional Toolkit</span>
 
@@ -73,6 +95,6 @@
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=J0-Y0&color=6e5494&style=flat-square)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=J0-Y0&color=6e5494&style=flat-square) -->
 
 </div>
