@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGd9_L0akAbmg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734795341238?e=1758153600&v=beta&t=HXY_wVTbfL4LF6ktGaF6IXDO58cosfWkqtUIDuhWAXc" alt="Yosef Emyayu Logo"  style="border-radius: 1%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGd9_L0akAbmg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734795341238?e=2147483647&v=beta&t=95NVs0daS9LUiZFbdKHsSfbd186SL9a8f3QdRn5oMN8" alt="Yosef Emyayu Logo"  style="border-radius: 1%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 
 
   <!-- <img src="https://yosefemyayu.pythonanywhere.com/static/img/logo_2.png" alt="Yosef Emyayu Logo" width="150" style="border-radius: 1%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;"> -->
